@@ -4,7 +4,7 @@
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lbernardobotelho/)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/X86MBKhznT)
 
-## Languages I use in my daily life
+## 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 𝙄 𝙪𝙨𝙚 𝙞𝙣 𝙢𝙮 𝙙𝙖𝙞𝙡𝙮 𝙡𝙞𝙛𝙚
 [![Linguas](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Linguas](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 
