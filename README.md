@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bernardo</h1>
 <h3 align="center">Back-end Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
